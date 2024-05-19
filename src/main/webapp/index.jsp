@@ -40,6 +40,8 @@
     <h1 id="titulo">Gran Hotel NewYork</h1>
 
     <h1>Esta es una prueba para commit</h1>
+    <h1>Esto es un cambio para prueba de CI</h1>
+    <h1>Prueba #1</h1>
 </header>
 
 <main>
