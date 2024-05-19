@@ -38,6 +38,8 @@
 <header>
     <!-- Encabezado de tu página -->
     <h1 id="titulo">Gran Hotel NewYork</h1>
+
+    <h1>Esta es una prueba para commit</h1>
 </header>
 
 <main>
